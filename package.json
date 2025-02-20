@@ -9,6 +9,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "core-js": "^3.23.3",
     "axe-core": "^4.10.2",
     "firebase": "^11.3.1",
     "jest-core": "^0.0.0",
